@@ -1,4 +1,4 @@
-// wite your code below!
+// (name)
 
 var name = "Joe"
 var height = "74"
